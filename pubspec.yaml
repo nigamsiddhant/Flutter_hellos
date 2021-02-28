@@ -2,7 +2,7 @@ name: hello
 description: A new Flutter package project.
 version: 0.0.1
 author: Siddhant Nigam
-homepage:
+homepage: https://github.com/nigamsiddhant/Flutter_hellos
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
